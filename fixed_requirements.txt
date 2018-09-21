@@ -1,0 +1,2 @@
+django
+git+https://github.com/didoarellano/django-hashid-field.git@modulenotfound
